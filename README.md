@@ -97,6 +97,8 @@ Co-led a community-based digital literacy initiative aimed at expanding access t
 
 This experience strengthened my interest in using education, technology, and collaborative problem-solving to create meaningful community impact.
 
+## Data Science Project Proposal
+
 ## 🔎 Areas of Interest
 
 - Financial Economics and Econometrics

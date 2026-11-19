@@ -98,6 +98,20 @@ Co-led a community-based digital literacy initiative aimed at expanding access t
 This experience strengthened my interest in using education, technology, and collaborative problem-solving to create meaningful community impact.
 
 ## Data Science Project Proposal
+**Happiness Levels in Different Economic and Social Contexts among Asian Countries**
+Ideas:
+- For the final project, I will work with a partner; my partner is Sayora. The general topic is to explore the happiness levels across Asian countries and how they relate to different economic and social contexts. We are planning to incorporate data visualization and hopefully, interactive mapping to identify the patterns across different countries. We are also planning to investigate how happiness changed over time.
+
+Data Sources: 
+- We are planning to use the datasets from the World Bank Data and some Reports about the World Happiness Index. For the data source, we are planning to merge these data by country and by year so that we can create geographical maps, scatterplots across different countries and also the changes happen over time within a country.
+- Economic and Social Data: Using World Bank data, this dataset will have numerous economic and social indicators such as unemployment, GDP per capita, and historical data. We will need to do background research before choosing some specific indicators that we want to work with.
+- Happiness Data: using the happiness data from the World Bank
+
+Research Questions:
+- Does rapid economic growth actually correlate with happier life in some emerging economies in Asian countries?
+- Is the happiness gap between Asian countries widening or narrowing, assuming that there are gaps?
+- What factors contribute to happiness across Asian countries? 
+
 
 ## 🔎 Areas of Interest
 
